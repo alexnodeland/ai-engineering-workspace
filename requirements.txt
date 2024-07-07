@@ -1,0 +1,45 @@
+# Core data science and machine learning libraries
+numpy
+pandas
+
+# Deep learning frameworks
+# torch
+
+# Natural Language Processing
+nltk
+spacy
+
+# Text embeddings
+tiktoken
+sentence-transformers
+
+# LLM frameworks and tools
+transformers
+ollama
+openai
+anthropic
+langchain
+langchain-community
+langgraph
+llama-index
+crewai
+dspy-ai
+
+# Database tools
+sqlalchemy
+alembic
+chromadb
+faiss-cpu
+
+# Data visualization
+matplotlib
+seaborn
+
+# Core development
+flask
+fastapi
+pydantic
+python-json-logger
+
+# Demos
+streamlit
